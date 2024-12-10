@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Data folder (encoder)
+chemprojector/models/data/
+
+
 # C extensions
 *.so
 
